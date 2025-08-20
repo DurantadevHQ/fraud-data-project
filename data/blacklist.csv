@@ -1,0 +1,11 @@
+domain,risk_score,threat_type,first_seen
+celebrity-gossip.online,96%,spoofing,2025-03-01
+local-news-today.cc,88%,bot_farm,2025-03-02
+shopping-deals-2025.pro,93%,cookie_stuffing,2025-03-03
+forbes-news.top,95%,domain_spoofing,2025-01-15
+cnn-update.xyz,91%,adware,2025-02-18
+shady-adnet.biz,97%,click_injection,2025-01-22
+popcash.bid,87%,malicious_popup,2025-03-10
+clickfuel.win,89%,data_center_traffic,2025-02-05
+free-iphone-giveaway.club,98%,adware,2025-01-30
+adult-live-hd.space,86%,bot_farm,2025-03-25
