@@ -1,0 +1,10 @@
+# Secrets and credentials
+config/credentials.json
+config/token.json
+.env
+
+# Logs
+logs/*.log
+
+# Backups (optional - you might want to track these)
+backups/*
